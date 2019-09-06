@@ -1,0 +1,442 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_",
+				"_blank"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"fi",
+				"figcaption\tTag"
+			],
+			[
+				"te",
+				"text-shadow\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"d",
+				"dotted\tborder-style"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"ima",
+				"background-image\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"Ga",
+				"Gallery"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"tex",
+				"text-shadow\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"si",
+				"font-size\tproperty"
+			],
+			[
+				"i",
+				"inside\tlist-style-position"
+			],
+			[
+				"list",
+				"list-style-position\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"text-decoration",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			],
+			[
+				"border-",
+				"border-color\tproperty"
+			],
+			[
+				"bor",
+				"border-style\tproperty"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"emp",
+				"employement_date"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"emplo",
+				"employement_date"
+			],
+			[
+				"to",
+				"today"
+			],
+			[
+				"mana",
+				"manager"
+			],
+			[
+				"man",
+				"manager"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"empl",
+				"employee"
+			],
+			[
+				"ye",
+				"year"
+			],
+			[
+				"nor",
+				"normal_employee"
+			],
+			[
+				"Mana",
+				"Manager"
+			],
+			[
+				"bo",
+				"bonus_percentage"
+			],
+			[
+				"b",
+				"bonus_percentage"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"M",
+				"Manager"
+			],
+			[
+				"Em",
+				"Employee"
+			],
+			[
+				"it",
+				"item_price"
+			],
+			[
+				"total",
+				"total_price"
+			],
+			[
+				"ite",
+				"item_price"
+			],
+			[
+				"item",
+				"item_quantity"
+			],
+			[
+				"s",
+				"skl"
+			],
+			[
+				"skill",
+				"skills"
+			],
+			[
+				"ski",
+				"skills"
+			],
+			[
+				"v",
+				"value2"
+			],
+			[
+				"val",
+				"value1"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"m",
+				"month"
+			],
+			[
+				"Y",
+				"Years"
+			],
+			[
+				"I",
+				"In_Date"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Developement/portfolio/crochet.html",
+		"/C/Users/DELL/Desktop/crochet.html",
+		"/C/Developement/portfolio/origami.html",
+		"/C/Developement/python/classes_task.py",
+		"/C/Developement/python/loops_task.py",
+		"/C/Developement/python/lists_dicts_task.py",
+		"/C/Developement/python/functions_task.py",
+		"/C/Developement/python/conditions_task.py",
+		"/C/Users/DELL/Desktop/hessah.py",
+		"/C/Developement/html_task/crochet.css",
+		"/C/Developement/portfolio/origami.css",
+		"/C/Developement/portfolio/new-portfolio-css.css",
+		"/C/Developement/portfolio/portfolio(new).html",
+		"/C/Developement/html_task/photo-gallery.css",
+		"/C/Developement/html_task/origami.css",
+		"/C/Developement/html_task/portfolio.html",
+		"/C/Developement/html_task/cssTask.css",
+		"/C/Developement/python/string_task.py"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index-color.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
